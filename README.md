@@ -2,7 +2,7 @@
 
 Guia para quem quer montar o próprio laboratório de **SOC** (Security Operations Center: a central que monitora e investiga alertas de segurança) sem perder meses refazendo configuração.
 
-Nasceu de dois anos de tentativas reais. Aqui estão a ordem certa, o que cada peça faz e os erros que me custaram tempo.
+Nasceu de 18 meses de tentativas reais. Aqui estão a ordem certa, o que cada peça faz e os erros que me custaram tempo.
 
 > Série no LinkedIn, toda terça e quinta. Cada post resume uma etapa deste guia.
 
